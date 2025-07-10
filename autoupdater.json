@@ -1,4 +1,4 @@
 {
-  "latest": "2.1", // aq chasvi axali skriptis versia
-  "updateurl": "https://raw.githubusercontent.com/sulovych/autoupdater/master/drugtimer/satesto.lua" // aq chasvi  skriptis gadmosawerili linki romelic githubzea
+  "latest": "2.1",
+  "updateurl": "https://raw.githubusercontent.com/sulovych/autoupdater/master/drugtimer/satesto.lua"
 }
