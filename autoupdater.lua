@@ -11,7 +11,6 @@ if enable_autoupdate then
         autoupdate_loaded, Update = pcall(Updater)
         if autoupdate_loaded then
             Update.json_url = "https://raw.githubusercontent.com/sulovych/autoupdater/main/drugtimer/updater.json?" .. tostring(os.clock()) -- json linki romelic amowmebs bolo skriptis versias
-            Update.prefix = string.upper(thisScript().name)
             Update.url = "https://raw.githubusercontent.com/sulovych/autoupdater/master/drugtimer/satesto.lua" -- bolo scriptis linki saidanac chaiwers scripti axal versias
         end
     end
