@@ -45,7 +45,3 @@ You need to host a `version.json` file on GitHub (or elsewhere) that looks like 
 ## License 📜
 
 Open source, feel free to use it.
-
----
-
-made with ❤️ by **sulovych**
